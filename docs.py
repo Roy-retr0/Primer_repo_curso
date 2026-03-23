@@ -7,3 +7,8 @@ word = " Hola Mundo!!!"
 
 for i in word:
     print(i)
+
+# Sugerencia
+'''
+print("Hola Mundo")
+'''
